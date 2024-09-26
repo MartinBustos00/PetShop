@@ -1,17 +1,21 @@
-#Perrito1 {
-    transition: 1,5 s ease;
-    -webkit-transition: 1,5 ease; 
-}
+#name{background-color: rgb(245, 176, 112);
 
-#Perrito1:hover {
-    transform: scale(1.2);
-    -webkit-transform: scale(1.2);
+align-items: center;
+transition: 1.55 ;
+
 }
-#hi{
-    transition:1,5 s ease;
-    -wedkit-transition: 1,5 ease;
+#lastname{          margin: 1%;
+    background-color: rgb(252, 203, 157);
+
 }
-#hi:hover {
-    transform: scale(1.2);
-    -wedkit-transform: scale(1.2);
+#lastname2 { margin: 0%;}
+#petshop{
+
+transition:1,5 ease;-webkit-transition:1,5 ease;
+
+}
+#pet:hover{
+
+transform:scale(2);-webkit-transform:scale(2);
+
 }
