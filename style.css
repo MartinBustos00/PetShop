@@ -1,0 +1,17 @@
+#Perrito1 {
+    transition: 1,5 s ease;
+    -webkit-transition: 1,5 ease; 
+}
+
+#Perrito1:hover {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+}
+#hi{
+    transition:1,5 s ease;
+    -wedkit-transition: 1,5 ease;
+}
+#hi:hover {
+    transform: scale(1.2);
+    -wedkit-transform: scale(1.2);
+}
