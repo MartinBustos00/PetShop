@@ -1,21 +1,143 @@
-#name{background-color: rgb(245, 176, 112);
-
-align-items: center;
-transition: 1.55 ;
-
+#titulo{
+    
 }
-#lastname{          margin: 1%;
-    background-color: rgb(252, 203, 157);
+/* From Uiverse.io by lenfear23 */ 
+button {
+    margin: 12px;
+    height: 50px;
+    width: 120px;
+    border-radius: 10px;
+    background: #333;
+    justify-content: center;
+    align-items: center;
+    box-shadow: -5px -5px 15px #444, 5px 5px 15px #222, inset 5px 5px 10px #444,
+      inset -5px -5px 10px #222;
+    font-family: "Damion", cursive;
+    cursor: pointer;
+    border: none;
+    font-size: 16px;
+    color: rgb(161, 161, 161);
+    transition: 500ms;
+  }
+  
+  button:hover {
+    box-shadow: -5px -5px 15px #444, 5px 5px 15px #222, inset 5px 5px 10px #222,
+      inset -5px -5px 10px #444;
+    color: #d6d6d6;
+    transition: 500ms;
+  }
+  
 
+#name {
+    background-color: hsl(135, 24%, 45%);
+ 
 }
-#lastname2 { margin: 0%;}
-#petshop{
-
-transition:1,5 ease;-webkit-transition:1,5 ease;
-
+#Perrito1 {
+    transition: 1,5 s ease;
+    -webkit-transition: 1,5 ease; 
+    border-radius: 51px;
+background: #9a78d9;
+box-shadow: inset -26px -26px 51px #7a5fab,
+            inset 26px 26px 51px #ba91ff;
 }
-#pet:hover{
 
-transform:scale(2);-webkit-transform:scale(2);
-
+#Perrito1:hover {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+}
+#hi{
+    transition:1,5 s ease;
+    -wedkit-transition: 1,5 ease;
+    border-radius: 51px;
+background: #9a78d9;
+box-shadow: inset -26px -26px 51px #7a5fab,
+            inset 26px 26px 51px #ba91ff;
+}
+#hi:hover {
+    transform: scale(1.2);
+    -wedkit-transform: scale(1.2);
+}
+#hola{
+    transition:1,5 s ease;
+    -wedkit-transition: 1,5 ease;
+    border-radius: 51px;
+background: #9a78d9;
+box-shadow: inset -26px -26px 51px #7a5fab,
+            inset 26px 26px 51px #ba91ff;
+}
+#hola:hover {
+    transform: scale(1.2);
+    -wedkit-transform: scale(1.2);
+}
+#michi{
+    transition:1,5 s ease;
+    -wedkit-transition: 1,5 ease;
+    border-radius: 51px;
+background: #9a78d9;
+box-shadow: inset -26px -26px 51px #7a5fab,
+            inset 26px 26px 51px #ba91ff;
+}
+#michi:hover {
+    transform: scale(1.2);
+    -wedkit-transform: scale(1.2);
+}
+#petts{
+    transition:1,5 s ease;
+    -wedkit-transition: 1,5 ease;
+    border-radius: 51px;
+background: #9a78d9;
+box-shadow: inset -26px -26px 51px #7a5fab,
+            inset 26px 26px 51px #ba91ff;
+}
+#petts:hover {
+    transform: scale(1.2);
+    -wedkit-transform: scale(1.2);
+}
+#perro{
+    transition:1,5 s ease;
+    -wedkit-transition: 1,5 ease;
+    border-radius: 51px;
+background: #9a78d9;
+box-shadow: inset -26px -26px 51px #7a5fab,
+            inset 26px 26px 51px #ba91ff;
+}
+#perro:hover {
+    transform: scale(1.2);
+    -wedkit-transform: scale(1.2);
+}
+#peine{
+    transition:1,5 s ease;
+    -wedkit-transition: 1,5 ease;
+    border-radius: 51px;
+background: #9a78d9;
+box-shadow: inset -26px -26px 51px #7a5fab,
+            inset 26px 26px 51px #ba91ff;
+}
+#peine:hover {
+    transform: scale(1.2);
+    -wedkit-transform: scale(1.2);
+}
+#comedero{
+    transition:1,5 s ease;
+    -wedkit-transition: 1,5 ease;
+    border-radius: 51px;
+background: #9a78d9;
+box-shadow: inset -26px -26px 51px #7a5fab,
+            inset 26px 26px 51px #ba91ff;
+}
+#comedero:hover {
+    transform: scale(1.2);
+    -wedkit-transform: scale(1.2);
+}
+#camisa{
+    transition:1,5 s ease;
+    -wedkit-transition: 1,5 ease;
+    border-radius: 51px;
+background: #9a78d9;
+box-shadow: inset -26px -26px 51px #7a5fab,
+            inset 26px 26px 51px #ba91ff;
+}
+#camisa:hover {
+    transform: scale(1.2);
+    -wedkit-transform: scale(1.2);
 }
