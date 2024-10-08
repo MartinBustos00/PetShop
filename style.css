@@ -1,8 +1,33 @@
+#boton{
+    border-color: #ffffff;
+    position: relative;
+    background: #fff;
+    border-radius: 0%;
+    margin: 0px;
+    width: 50px;
+    height: 50px;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    cursor: pointer;
+    transition: 1,5 s ease;
+    -webkit-transition: 1,5 ease; 
+    border-radius: 51px;
+background: #ffffff;
+ 
+}
+
+
+
+
+
 .wrapper {
     display: inline-flex;
     list-style: none;
     height: 1px;
-
+border-radius: 0%;
     width: 100%;
     padding-top: 1px;
     font-family: "Poppins", sans-serif;
@@ -84,46 +109,8 @@
     background: #e4405f;
     color: #fff;
   }
-  
-#titulo{
-    margin: 8px;
-    height: 300px;
-    width: 300px;
-    border-radius: 10px;
-    padding-top: -20cm
-
-    
-}
-
-button {
-    margin: 12px;
-    height: 50px;
-    width: 120px;
-    border-radius: 10px;
-    background: #333;
-    justify-content: center;
-    align-items: center;
-    box-shadow: -5px -5px 15px #444, 5px 5px 15px #222, inset 5px 5px 10px #444,
-      inset -5px -5px 10px #222;
-    font-family: "Damion", cursive;
-    cursor: pointer;
-    border: none;
-    font-size: 16px;
-    color: rgb(161, 161, 161);
-    transition: 500ms;
-  }
-  
-  button:hover {
-    box-shadow: -5px -5px 15px #444, 5px 5px 15px #222, inset 5px 5px 10px #222,
-      inset -5px -5px 10px #444;
-    color: #d6d6d6;
-    transition: 500ms;
-  }
-  
-
 #name {
     background-color: hsl(135, 24%, 45%);
- 
 }
 #Perrito1 {
     transition: 1,5 s ease;
@@ -198,6 +185,18 @@ box-shadow: inset -26px -26px 51px #7a5fab,
     transform: scale(1.2);
     -wedkit-transform: scale(1.2);
 }
+#ume{
+    transition:1,5 s ease;
+    -wedkit-transition: 1,5 ease;
+    border-radius: 51px;
+background: #9a78d9;
+box-shadow: inset -26px -26px 51px #7a5fab,
+            inset 26px 26px 51px #ba91ff;
+}
+#ume:hover {
+    transform: scale(1.2);
+    -wedkit-transform: scale(1.2);
+}
 #peine{
     transition:1,5 s ease;
     -wedkit-transition: 1,5 ease;
@@ -231,6 +230,81 @@ box-shadow: inset -26px -26px 51px #7a5fab,
             inset 26px 26px 51px #ba91ff;
 }
 #camisa:hover {
+    transform: scale(1.2);
+    -wedkit-transform: scale(1.2);
+}
+#casita{
+    transition:1,5 s ease;
+    -wedkit-transition: 1,5 ease;
+    border-radius: 51px;
+background: #9a78d9;
+box-shadow: inset -26px -26px 51px #7a5fab,
+            inset 26px 26px 51px #ba91ff;
+}
+#casita:hover {
+    transform: scale(1.2);
+    -wedkit-transform: scale(1.2);
+}
+#juguetes{
+    background-color: darkgreen;
+}
+#mordedero{
+    transition:1,5 s ease;
+    -wedkit-transition: 1,5 ease;
+    border-radius: 51px;
+background: #9a78d9;
+box-shadow: inset -26px -26px 51px #7a5fab,
+            inset 26px 26px 51px #ba91ff;
+}
+#mordedero:hover {
+    transform: scale(1.2);
+    -wedkit-transform: scale(1.2);
+}
+#pelota{
+    transition:1,5 s ease;
+    -wedkit-transition: 1,5 ease;
+    border-radius: 51px;
+background: #9a78d9;
+box-shadow: inset -26px -26px 51px #7a5fab,
+            inset 26px 26px 51px #ba91ff;
+}
+#pelota:hover {
+    transform: scale(1.2);
+    -wedkit-transform: scale(1.2);
+}
+#juguete{
+    transition:1,5 s ease;
+    -wedkit-transition: 1,5 ease;
+    border-radius: 51px;
+background: #9a78d9;
+box-shadow: inset -26px -26px 51px #7a5fab,
+            inset 26px 26px 51px #ba91ff;
+}
+#juguete:hover {
+    transform: scale(1.2);
+    -wedkit-transform: scale(1.2);
+}
+#cuerda{
+    transition:1,5 s ease;
+    -wedkit-transition: 1,5 ease;
+    border-radius: 51px;
+background: #9a78d9;
+box-shadow: inset -26px -26px 51px #7a5fab,
+            inset 26px 26px 51px #ba91ff;
+}
+#cuerda:hover {
+    transform: scale(1.2);
+    -wedkit-transform: scale(1.2);
+}
+#alimento{
+    transition:1,5 s ease;
+    -wedkit-transition: 1,5 ease;
+    border-radius: 51px;
+background: #9a78d9;
+box-shadow: inset -26px -26px 51px #7a5fab,
+            inset 26px 26px 51px #ba91ff;
+}
+#alimento:hover {
     transform: scale(1.2);
     -wedkit-transform: scale(1.2);
 }
